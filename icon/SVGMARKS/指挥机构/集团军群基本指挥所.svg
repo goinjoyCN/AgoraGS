@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g id="Blue">
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="10.667" y1="12.809" x2="10.667" y2="62.795"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="10.667" y1="13.219" x2="54.734" y2="13.219"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="54.734" y1="12.795" x2="54.734" y2="31.333"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="55.131" y1="31.333" x2="10.667" y2="31.333"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="20.813" y1="2.333" x2="27.73" y2="9.25"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="26.98" y1="2.333" x2="20.438" y2="8.875"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="37.396" y1="2.333" x2="44.313" y2="9.25"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="43.563" y1="2.333" x2="37.021" y2="8.875"/>
+</g>
+<g id="Red">
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="10.667" y1="12.809" x2="10.667" y2="62.795"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="10.667" y1="13.219" x2="54.734" y2="13.219"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="54.734" y1="12.795" x2="54.734" y2="31.333"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="55.131" y1="31.333" x2="10.667" y2="31.333"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="20.813" y1="2.333" x2="27.73" y2="9.25"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="26.98" y1="2.333" x2="20.438" y2="8.875"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="37.396" y1="2.333" x2="44.313" y2="9.25"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="43.563" y1="2.333" x2="37.021" y2="8.875"/>
+</g>
+<g id="White">
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="10.667" y1="12.809" x2="10.667" y2="62.795"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="10.667" y1="13.219" x2="54.734" y2="13.219"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="54.734" y1="12.795" x2="54.734" y2="31.333"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="55.131" y1="31.333" x2="10.667" y2="31.333"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="20.813" y1="2.333" x2="27.73" y2="9.25"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="26.98" y1="2.333" x2="20.438" y2="8.875"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="37.396" y1="2.333" x2="44.313" y2="9.25"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="43.563" y1="2.333" x2="37.021" y2="8.875"/>
+</g>
+</svg>

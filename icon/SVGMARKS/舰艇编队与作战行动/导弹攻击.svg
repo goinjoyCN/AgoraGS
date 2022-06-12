@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g id="Blue">
+	<polygon fill="none" stroke-width="2" stroke="#FFFF00" points="4.5,10.252 20.197,10.252 26.43,14.061 20.082,17.87 4.5,17.87 	"/>
+	<line fill="none" stroke-width="2" stroke="#FFFF00" x1="19.465" y1="10.252" x2="19.465" y2="18"/>
+	<polygon fill="none" stroke-width="2" stroke="#0000FF" points="3.5,9.75 20.5,9.75 27.25,13.875 20.375,18 3.5,18 	"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="20.5" y1="9.75" x2="20.5" y2="18"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="35.5" y1="13.875" x2="50.75" y2="13.875"/>
+	<polygon fill="#0000FF" points="49.25,15.125 50.75,13.875 49.25,12.5 56.125,13.813 	"/>
+	<polygon fill="#0000FF" points="27.952,22.223 26.009,22.021 26.072,24.056 22.214,18.216 	"/>
+	<polygon fill="#0000FF" points="54.645,49.758 52.701,49.556 52.764,51.59 48.906,45.75 	"/>
+	<polygon fill="#0000FF" points="27.222,43.307 27.728,45.193 29.605,44.408 25.233,50.038 	"/>
+	<polygon fill="none" stroke-width="2" stroke="#0000FF" points="60.688,51.59 44.813,41.563 54.645,57.313 	"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="42" y1="37.625" x2="37.563" y2="33.605"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="34.563" y1="30.688" x2="26.009" y2="22.021"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="52.701" y1="49.556" x2="56.25" y2="53.125"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="40.188" y1="39.75" x2="32.278" y2="34.699"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="32.398" y1="34.421" x2="27.828" y2="45.017"/>
+</g>
+<g id="Red">
+	<polygon fill="none" stroke-width="2" stroke="#FFFF00" points="4.5,10.252 20.197,10.252 26.43,14.061 20.082,17.87 4.5,17.87 	"/>
+	<line fill="none" stroke-width="2" stroke="#FFFF00" x1="19.465" y1="10.252" x2="19.465" y2="18"/>
+	<polygon fill="none" stroke-width="2" stroke="#FF0000" points="3.5,9.75 20.5,9.75 27.25,13.875 20.375,18 3.5,18 	"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="20.5" y1="9.75" x2="20.5" y2="18"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="35.5" y1="13.875" x2="50.75" y2="13.875"/>
+	<polygon fill="#FF0000" points="49.25,15.125 50.75,13.875 49.25,12.5 56.125,13.813 	"/>
+	<polygon fill="#FF0000" points="27.952,22.223 26.009,22.021 26.072,24.056 22.214,18.216 	"/>
+	<polygon fill="#FF0000" points="54.645,49.758 52.701,49.556 52.764,51.59 48.906,45.75 	"/>
+	<polygon fill="#FF0000" points="27.222,43.307 27.728,45.193 29.605,44.408 25.233,50.038 	"/>
+	<polygon fill="none" stroke-width="2" stroke="#FF0000" points="60.688,51.59 44.813,41.563 54.645,57.313 	"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="42" y1="37.625" x2="37.563" y2="33.605"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="34.563" y1="30.688" x2="26.009" y2="22.021"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="52.701" y1="49.556" x2="56.25" y2="53.125"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="40.188" y1="39.75" x2="32.278" y2="34.699"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="32.398" y1="34.421" x2="27.828" y2="45.017"/>
+</g>
+<g id="White">
+	<polygon fill="none" stroke-width="2" stroke="#FFFF00" points="4.5,10.252 20.197,10.252 26.43,14.061 20.082,17.87 4.5,17.87 	"/>
+	<line fill="none" stroke-width="2" stroke="#FFFF00" x1="19.465" y1="10.252" x2="19.465" y2="18"/>
+	<polygon fill="none" stroke-width="2" stroke="#00FF00" points="3.5,9.75 20.5,9.75 27.25,13.875 20.375,18 3.5,18 	"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="20.5" y1="9.75" x2="20.5" y2="18"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="35.5" y1="13.875" x2="50.75" y2="13.875"/>
+	<polygon fill="#00FF00" points="49.25,15.125 50.75,13.875 49.25,12.5 56.125,13.813 	"/>
+	<polygon fill="#00FF00" points="27.952,22.223 26.009,22.021 26.072,24.056 22.214,18.216 	"/>
+	<polygon fill="#00FF00" points="54.645,49.758 52.701,49.556 52.764,51.59 48.906,45.75 	"/>
+	<polygon fill="#00FF00" points="27.222,43.307 27.728,45.193 29.605,44.408 25.233,50.038 	"/>
+	<polygon fill="none" stroke-width="2" stroke="#00FF00" points="60.688,51.59 44.813,41.563 54.645,57.313 	"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="42" y1="37.625" x2="37.563" y2="33.605"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="34.563" y1="30.688" x2="26.009" y2="22.021"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="52.701" y1="49.556" x2="56.25" y2="53.125"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="40.188" y1="39.75" x2="32.278" y2="34.699"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="32.398" y1="34.421" x2="27.828" y2="45.017"/>
+</g>
+</svg>

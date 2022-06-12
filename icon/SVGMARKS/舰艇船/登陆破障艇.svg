@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g id="Blue">
+	<polygon fill="none" stroke="#0000FF" points="61.917,51.375 2.083,32 2.083,32 61.917,11.5 	"/>
+	<line fill="none" stroke="#0000FF" x1="29.875" y1="32" x2="45.535" y2="17.113"/>
+	<line fill="none" stroke="#0000FF" x1="29.875" y1="32" x2="45.535" y2="46.07"/>
+	<ellipse fill="#0000FF" cx="49.969" cy="31.438" rx="3.969" ry="1.438"/>
+	<line fill="none" stroke="#0000FF" x1="44.625" y1="27.313" x2="47.782" y2="30.238"/>
+	<line fill="none" stroke="#0000FF" x1="52.661" y1="32.49" x2="54.813" y2="38.063"/>
+</g>
+<g id="Red">
+	<polygon fill="none" stroke="#FF0000" points="61.917,51.375 2.083,32 2.083,32 61.917,11.5 	"/>
+	<line fill="none" stroke="#FF0000" x1="29.875" y1="32" x2="45.535" y2="17.113"/>
+	<line fill="none" stroke="#FF0000" x1="29.875" y1="32" x2="45.535" y2="46.07"/>
+	<ellipse fill="#FF0000" cx="49.969" cy="31.438" rx="3.969" ry="1.438"/>
+	<line fill="none" stroke="#FF0000" x1="44.625" y1="27.313" x2="47.782" y2="30.238"/>
+	<line fill="none" stroke="#FF0000" x1="52.661" y1="32.49" x2="54.813" y2="38.063"/>
+</g>
+<g id="White">
+	<polygon fill="none" stroke="#00FF00" points="61.917,51.375 2.083,32 2.083,32 61.917,11.5 	"/>
+	<line fill="none" stroke="#00FF00" x1="29.875" y1="32" x2="45.535" y2="17.113"/>
+	<line fill="none" stroke="#00FF00" x1="29.875" y1="32" x2="45.535" y2="46.07"/>
+	<ellipse fill="#00FF00" cx="49.969" cy="31.438" rx="3.969" ry="1.438"/>
+	<line fill="none" stroke="#00FF00" x1="44.625" y1="27.313" x2="47.782" y2="30.238"/>
+	<line fill="none" stroke="#00FF00" x1="52.661" y1="32.49" x2="54.813" y2="38.063"/>
+</g>
+</svg>

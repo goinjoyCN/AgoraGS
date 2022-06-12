@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g id="Blue">
+	<circle fill="none" stroke="#0000FF" stroke-width="2" cx="31.563" cy="34.063" r="12.188"/>
+	<line fill="none" stroke="#0000FF" stroke-width="2" x1="31.563" y1="34.063" x2="31.563" y2="26.243"/>
+	<line fill="none" stroke="#0000FF" stroke-width="2" x1="31.563" y1="34.063" x2="24.18" y2="38.3"/>
+	<line fill="none" stroke="#0000FF" stroke-width="2" x1="31.563" y1="34.063" x2="38.857" y2="38.3"/>
+	<rect x="1.6" y="15.384" fill="none" stroke="#0000FF" stroke-width="2" width="60.8" height="38.356"/>
+</g>
+<g id="Red">
+	<circle fill="none" stroke="#FF0000" stroke-width="2" cx="31.563" cy="34.063" r="12.188"/>
+	<line fill="none" stroke="#FF0000" stroke-width="2" x1="31.563" y1="34.063" x2="31.563" y2="26.243"/>
+	<line fill="none" stroke="#FF0000" stroke-width="2" x1="31.563" y1="34.063" x2="24.18" y2="38.3"/>
+	<line fill="none" stroke="#FF0000" stroke-width="2" x1="31.563" y1="34.063" x2="38.857" y2="38.3"/>
+	<rect x="1.6" y="15.384" fill="none" stroke="#FF0000" stroke-width="2" width="60.8" height="38.356"/>
+</g>
+<g id="White">
+	<circle fill="none" stroke="#00FF00" stroke-width="2" cx="31.563" cy="34.063" r="12.188"/>
+	<line fill="none" stroke="#00FF00" stroke-width="2" x1="31.563" y1="34.063" x2="31.563" y2="26.243"/>
+	<line fill="none" stroke="#00FF00" stroke-width="2" x1="31.563" y1="34.063" x2="24.18" y2="38.3"/>
+	<line fill="none" stroke="#00FF00" stroke-width="2" x1="31.563" y1="34.063" x2="38.857" y2="38.3"/>
+	<rect x="1.6" y="15.384" fill="none" stroke="#00FF00" stroke-width="2" width="60.8" height="38.356"/>
+</g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="23.842px" height="45.61px" viewBox="0 0 23.842 45.61" enable-background="new 0 0 23.842 45.61" xml:space="preserve">
+<g id="Blue">
+	<circle fill="none" stroke-width="2" stroke="#0000FF" cx="11.849" cy="39.167" r="5.75"/>
+	<polyline fill="none" stroke-width="2" stroke="#0000FF" points="5.182,45.25 12.015,38.667 18.349,45.25 	"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="11.432" y1="0" x2="11.432" y2="33"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="11.38" y1="15.104" x2="0.349" y2="25.833"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="11.599" y1="15.167" x2="23.516" y2="25.417"/>
+</g>
+<g id="Red">
+	<circle fill="none" stroke-width="2" stroke="#FF0000" cx="11.849" cy="39.167" r="5.75"/>
+	<polyline fill="none" stroke-width="2" stroke="#FF0000" points="5.182,45.25 12.015,38.667 18.349,45.25 	"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="11.432" y1="0" x2="11.432" y2="33"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="11.38" y1="15.104" x2="0.349" y2="25.833"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="11.599" y1="15.167" x2="23.516" y2="25.417"/>
+</g>
+<g id="White">
+	<circle fill="none" stroke-width="2" stroke="#00FF00" cx="11.849" cy="39.167" r="5.75"/>
+	<polyline fill="none" stroke-width="2" stroke="#00FF00" points="5.182,45.25 12.015,38.667 18.349,45.25 	"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="11.432" y1="0" x2="11.432" y2="33"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="11.38" y1="15.104" x2="0.349" y2="25.833"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="11.599" y1="15.167" x2="23.516" y2="25.417"/>
+</g>
+</svg>

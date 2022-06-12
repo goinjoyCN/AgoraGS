@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g id="Blue">
+	<polygon fill="none" stroke-width="2" stroke="#0000FF" points="62.676,33.193 30.885,50.029 1.174,31.396 31.55,14.527 	"/>
+	<polyline fill="none" stroke-width="2" stroke="#0000FF" points="50.833,33.945 47.999,31.923 50.816,29.971 	"/>
+	<polyline fill="none" stroke-width="2" stroke="#0000FF" points="11.184,29.971 14.001,31.923 11.167,33.945 	"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="13.333" y1="31.833" x2="48.166" y2="31.833"/>
+</g>
+<g id="Red">
+	<polygon fill="none" stroke-width="2" stroke="#FF0000" points="62.671,33.354 30.792,50.023 1.179,31.237 31.642,14.525 	"/>
+	<polyline fill="none" stroke-width="2" stroke="#FF0000" points="50.833,33.945 47.999,31.923 50.816,29.971 	"/>
+	<polyline fill="none" stroke-width="2" stroke="#FF0000" points="11.184,29.971 14.001,31.923 11.167,33.945 	"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="13.333" y1="31.833" x2="48.166" y2="31.833"/>
+</g>
+<g id="White">
+	<polygon fill="none" stroke-width="2" stroke="#00FF00" points="62.671,33.354 30.792,50.023 1.179,31.237 31.642,14.525 	"/>
+	<polyline fill="none" stroke-width="2" stroke="#00FF00" points="50.833,33.945 47.999,31.923 50.816,29.971 	"/>
+	<polyline fill="none" stroke-width="2" stroke="#00FF00" points="11.184,29.971 14.001,31.923 11.167,33.945 	"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="13.333" y1="31.833" x2="48.166" y2="31.833"/>
+</g>
+</svg>

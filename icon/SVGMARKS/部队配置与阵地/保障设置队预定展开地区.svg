@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g id="Blue">
+	<line fill="none" stroke="#0000FF" x1="23.583" y1="31.156" x2="9.333" y2="31.156"/>
+	<line fill="none" stroke="#000100" x1="23.583" y1="32" x2="9.333" y2="32"/>
+	<polygon fill="#000100" points="11.75,33.5 1.833,31.542 11.75,29.583 9.333,31.542 	"/>
+	<rect x="23.583" y="22.386" fill="none" stroke="#000100" stroke-width="2" width="36.854" height="18.313"/>
+	<rect x="25.426" y="23.301" fill="none" stroke="#0000FF" stroke-width="2" width="33.169" height="16.481"/>
+	<circle fill="#000100" cx="34.813" cy="31.542" r="2.813"/>
+	<circle fill="#000100" cx="48" cy="31.542" r="2.813"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="41.254" y1="22.833" x2="41.486" y2="19.967"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="41.701" y1="17.782" x2="42.07" y2="14.881"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="42.296" y1="13.667" x2="42.912" y2="11.8"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="43.533" y1="10.581" x2="44.27" y2="9.571"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="45.341" y1="8.631" x2="46.629" y2="8.083"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="41.254" y1="40.25" x2="41.486" y2="43.115"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="41.701" y1="45.301" x2="42.07" y2="48.202"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="42.296" y1="49.416" x2="42.912" y2="51.283"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="43.533" y1="52.502" x2="44.27" y2="53.512"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="45.341" y1="54.452" x2="46.629" y2="55"/>
+</g>
+<g id="Red">
+	<line fill="none" stroke="#FF0000" x1="23.583" y1="31.156" x2="9.333" y2="31.156"/>
+	<line fill="none" stroke="#000100" x1="23.583" y1="32" x2="9.333" y2="32"/>
+	<polygon fill="#000100" points="11.75,33.5 1.833,31.542 11.75,29.583 9.333,31.542 	"/>
+	<rect x="23.583" y="22.386" fill="none" stroke="#000100" stroke-width="2" width="36.854" height="18.313"/>
+	<rect x="25.426" y="23.301" fill="none" stroke="#FF0000" stroke-width="2" width="33.169" height="16.481"/>
+	<circle fill="#000100" cx="34.813" cy="31.542" r="2.813"/>
+	<circle fill="#000100" cx="48" cy="31.542" r="2.813"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="41.254" y1="22.833" x2="41.486" y2="19.967"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="41.701" y1="17.782" x2="42.07" y2="14.881"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="42.296" y1="13.667" x2="42.912" y2="11.8"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="43.533" y1="10.581" x2="44.27" y2="9.571"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="45.341" y1="8.631" x2="46.629" y2="8.083"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="41.254" y1="40.25" x2="41.486" y2="43.115"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="41.701" y1="45.301" x2="42.07" y2="48.202"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="42.296" y1="49.416" x2="42.912" y2="51.283"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="43.533" y1="52.502" x2="44.27" y2="53.512"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="45.341" y1="54.452" x2="46.629" y2="55"/>
+</g>
+<g id="White">
+	<line fill="none" stroke="#00FF00" x1="23.583" y1="31.156" x2="9.333" y2="31.156"/>
+	<line fill="none" stroke="#000100" x1="23.583" y1="32" x2="9.333" y2="32"/>
+	<polygon fill="#000100" points="11.75,33.5 1.833,31.542 11.75,29.583 9.333,31.542 	"/>
+	<rect x="23.583" y="22.386" fill="none" stroke="#000100" stroke-width="2" width="36.854" height="18.313"/>
+	<rect x="25.426" y="23.301" fill="none" stroke="#00FF00" stroke-width="2" width="33.169" height="16.481"/>
+	<circle fill="#000100" cx="34.813" cy="31.542" r="2.813"/>
+	<circle fill="#000100" cx="48" cy="31.542" r="2.813"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="41.254" y1="22.833" x2="41.486" y2="19.967"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="41.701" y1="17.782" x2="42.07" y2="14.881"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="42.296" y1="13.667" x2="42.912" y2="11.8"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="43.533" y1="10.581" x2="44.27" y2="9.571"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="45.341" y1="8.631" x2="46.629" y2="8.083"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="41.254" y1="40.25" x2="41.486" y2="43.115"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="41.701" y1="45.301" x2="42.07" y2="48.202"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="42.296" y1="49.416" x2="42.912" y2="51.283"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="43.533" y1="52.502" x2="44.27" y2="53.512"/>
+	<line fill="none" stroke="#3F383F" stroke-width="2" x1="45.341" y1="54.452" x2="46.629" y2="55"/>
+</g>
+</svg>

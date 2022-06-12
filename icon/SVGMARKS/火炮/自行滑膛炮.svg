@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g id="Blue">
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="0.395" y1="32.302" x2="55.598" y2="32.302"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="10.723" y1="22.832" x2="40.816" y2="22.832"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="10.723" y1="41.167" x2="40.965" y2="41.167"/>
+	<path fill="none" stroke-width="2" stroke="#0000FF" d="M63.408,39.863c-4.41,0-7.984-3.576-7.984-7.984c0-4.41,3.574-7.984,7.984-7.984"/>
+	<circle fill="none" stroke-width="2" stroke="#0000FF" cx="26.228" cy="31.879" r="7.984"/>
+</g>
+<g id="Red">
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="0.395" y1="32.302" x2="55.424" y2="32.302"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="10.723" y1="22.832" x2="40.816" y2="22.832"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="10.723" y1="41.167" x2="40.965" y2="41.167"/>
+	<circle fill="none" stroke-width="2" stroke="#FF0000" cx="26.228" cy="31.879" r="7.984"/>
+	<path fill="none" stroke-width="2" stroke="#FF0000" d="M63.592,23.895c-4.41,0-7.984,3.574-7.984,7.984c0,4.408,3.574,7.984,7.984,7.984
+		c0.004,0,0.008,0,0.013,0"/>
+</g>
+<g id="White">
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="0.395" y1="32.302" x2="55.444" y2="32.302"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="10.723" y1="22.832" x2="40.816" y2="22.832"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="10.723" y1="41.167" x2="40.965" y2="41.167"/>
+	<path fill="none" stroke-width="2" stroke="#00FF00" d="M63.531,39.863c-4.41,0-7.984-3.576-7.984-7.984c0-4.41,3.574-7.984,7.984-7.984"/>
+	<circle fill="none" stroke-width="2" stroke="#00FF00" cx="26.228" cy="31.879" r="7.984"/>
+</g>
+</svg>

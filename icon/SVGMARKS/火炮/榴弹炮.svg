@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g id="Blue">
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="0.478" y1="32.337" x2="48.442" y2="32.337"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="9.468" y1="23.905" x2="40.653" y2="23.905"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="9.468" y1="40.187" x2="40.653" y2="40.187"/>
+	<path fill="none" stroke-width="2" stroke="#0000FF" d="M63.324,31.93c0,4.192-3.397,7.591-7.591,7.591c-4.192,0-7.592-3.398-7.592-7.591
+		s3.397-7.593,7.592-7.593C59.926,24.337,63.324,27.737,63.324,31.93z"/>
+</g>
+<g id="Red">
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="0.478" y1="32.337" x2="48.442" y2="32.337"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="9.468" y1="23.905" x2="40.653" y2="23.905"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="9.468" y1="40.187" x2="40.653" y2="40.187"/>
+	<circle fill="none" stroke-width="2" stroke="#FF0000" cx="55.777" cy="31.929" r="7.68"/>
+</g>
+<g id="White">
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="0.478" y1="32.294" x2="48.442" y2="32.294"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="9.596" y1="23.743" x2="41.228" y2="23.743"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="9.596" y1="40.257" x2="41.228" y2="40.257"/>
+	<circle fill="none" stroke-width="2" stroke="#00FF00" cx="55.82" cy="31.883" r="7.702"/>
+</g>
+</svg>

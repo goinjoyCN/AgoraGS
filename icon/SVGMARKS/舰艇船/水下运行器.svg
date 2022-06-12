@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g id="Blue">
+	<path fill="none" stroke="#0000FF" d="M53.167,21.167H19.333c0,0-2.25-0.083-2.417,2.083v16.333c0,0,0,2.667,2.417,2.667h32.5
+		c0,0,2.668-0.834,2.584-3.167V22.417C54.417,22.417,54.334,21.167,53.167,21.167z"/>
+	<line fill="none" stroke="#0000FF" x1="2.333" y1="22" x2="2.333" y2="39.833"/>
+	<line fill="none" stroke="#0000FF" x1="16.917" y1="31.25" x2="8.167" y2="31.25"/>
+	<line fill="none" stroke="#0000FF" x1="62.917" y1="22.5" x2="54.417" y2="27.583"/>
+	<line fill="none" stroke="#0000FF" x1="54.417" y1="35.333" x2="62.917" y2="39.833"/>
+</g>
+<g id="Red">
+	<path fill="none" stroke="#FF0000" d="M53.167,21.167H19.333c0,0-2.25-0.083-2.417,2.083v16.333c0,0,0,2.667,2.417,2.667h32.5
+		c0,0,2.668-0.834,2.584-3.167V22.417C54.417,22.417,54.334,21.167,53.167,21.167z"/>
+	<line fill="none" stroke="#FF0000" x1="2.333" y1="22" x2="2.333" y2="39.833"/>
+	<line fill="none" stroke="#FF0000" x1="16.917" y1="31.25" x2="8.167" y2="31.25"/>
+	<line fill="none" stroke="#FF0000" x1="62.917" y1="22.5" x2="54.417" y2="27.583"/>
+	<line fill="none" stroke="#FF0000" x1="54.417" y1="35.333" x2="62.917" y2="39.833"/>
+</g>
+<g id="White">
+	<path fill="none" stroke="#00FF00" d="M53.167,21.167H19.333c0,0-2.25-0.083-2.417,2.083v16.333c0,0,0,2.667,2.417,2.667h32.5
+		c0,0,2.668-0.834,2.584-3.167V22.417C54.417,22.417,54.334,21.167,53.167,21.167z"/>
+	<line fill="none" stroke="#00FF00" x1="2.333" y1="22" x2="2.333" y2="39.833"/>
+	<line fill="none" stroke="#00FF00" x1="16.917" y1="31.25" x2="8.167" y2="31.25"/>
+	<line fill="none" stroke="#00FF00" x1="62.917" y1="22.5" x2="54.417" y2="27.583"/>
+	<line fill="none" stroke="#00FF00" x1="54.417" y1="35.333" x2="62.917" y2="39.833"/>
+</g>
+</svg>

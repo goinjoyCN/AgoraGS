@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g id="Blue">
+	<rect x="8.333" y="1.167" fill="none" stroke="#0000FF" stroke-width="2" width="48.695" height="48.833"/>
+	<path fill="none" stroke="#0000FF" stroke-width="2" d="M21.27,15.178c0,0-9.156,12.59,0.52,21.85c0,0,10.821,9.468,21.746-1.457"
+		/>
+	<line fill="none" stroke="#0000FF" stroke-width="2" x1="21.27" y1="15.178" x2="43.536" y2="35.571"/>
+	<line fill="none" stroke="#0000FF" stroke-width="2" x1="32.403" y1="25.167" x2="44.265" y2="12.993"/>
+	<circle fill="none" stroke="#0000FF" stroke-width="2" cx="21.27" cy="55.688" r="5.687"/>
+	<circle fill="none" stroke="#0000FF" stroke-width="2" cx="45.507" cy="55.688" r="5.687"/>
+</g>
+<g id="Red">
+	<rect x="8.333" y="1.167" fill="none" stroke="#FF0000" stroke-width="2" width="48.695" height="48.833"/>
+	<path fill="none" stroke="#FF0000" stroke-width="2" d="M21.27,15.178c0,0-9.156,12.59,0.52,21.85c0,0,10.821,9.468,21.746-1.457"
+		/>
+	<line fill="none" stroke="#FF0000" stroke-width="2" x1="21.27" y1="15.178" x2="43.536" y2="35.571"/>
+	<line fill="none" stroke="#FF0000" stroke-width="2" x1="32.403" y1="25.167" x2="44.265" y2="12.993"/>
+	<circle fill="none" stroke="#FF0000" stroke-width="2" cx="21.27" cy="55.688" r="5.687"/>
+	<circle fill="none" stroke="#FF0000" stroke-width="2" cx="45.507" cy="55.688" r="5.687"/>
+</g>
+<g id="White">
+	<rect x="8.333" y="1.167" fill="none" stroke="#00FF00" stroke-width="2" width="48.695" height="48.833"/>
+	<path fill="none" stroke="#00FF00" stroke-width="2" d="M21.27,15.178c0,0-9.156,12.59,0.52,21.85c0,0,10.821,9.468,21.746-1.457"
+		/>
+	<line fill="none" stroke="#00FF00" stroke-width="2" x1="21.27" y1="15.178" x2="43.536" y2="35.571"/>
+	<line fill="none" stroke="#00FF00" stroke-width="2" x1="32.403" y1="25.167" x2="44.265" y2="12.993"/>
+	<circle fill="none" stroke="#00FF00" stroke-width="2" cx="21.27" cy="55.688" r="5.687"/>
+	<circle fill="none" stroke="#00FF00" stroke-width="2" cx="45.507" cy="55.688" r="5.687"/>
+</g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="47.807px" height="29.897px" viewBox="0 0 47.807 29.897" enable-background="new 0 0 47.807 29.897" xml:space="preserve">
+<g id="Blue">
+	<path fill="none" stroke-width="2" stroke="#0000FF" d="M0.42,10.251c9.167-14.25,37.5-11.667,47-0.083"/>
+	<path fill="none" stroke-width="2" stroke="#0000FF" d="M8.715,19.386c6.29-9.723,25.421-8.16,31.764-0.37"/>
+	<polygon fill="none" stroke-width="2" stroke="#0000FF" points="19.837,14.397 17.274,17.897 17.274,29.397 14.524,29.397 22.649,29.397 
+		22.649,17.835 	"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="22.649" y1="29.397" x2="25.087" y2="29.397"/>
+	<polygon fill="#0000FF" points="32.024,2.397 27.274,8.772 29.587,8.772 28.649,11.772 28.024,13.46 24.587,18.147 25.712,18.585 
+		23.399,25.397 24.149,25.647 26.962,19.335 28.149,19.71 28.649,13.897 30.149,8.96 31.399,10.085 	"/>
+</g>
+<g id="Red">
+	<path fill="none" stroke-width="2" stroke="#FF0000" d="M0.42,10.251c9.167-14.25,37.5-11.667,47-0.083"/>
+	<path fill="none" stroke-width="2" stroke="#FF0000" d="M8.715,19.386c6.29-9.723,25.421-8.16,31.764-0.37"/>
+	<polygon fill="none" stroke-width="2" stroke="#FF0000" points="19.837,14.397 17.274,17.897 17.274,29.397 14.524,29.397 22.649,29.397 
+		22.649,17.835 	"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="22.649" y1="29.397" x2="25.087" y2="29.397"/>
+	<polygon fill="#FF0000" points="32.024,2.397 27.274,8.772 29.587,8.772 28.649,11.772 28.024,13.46 24.587,18.147 25.712,18.585 
+		23.399,25.397 24.149,25.647 26.962,19.335 28.149,19.71 28.649,13.897 30.149,8.96 31.399,10.085 	"/>
+</g>
+<g id="White">
+	<path fill="none" stroke-width="2" stroke="#00FF00" d="M0.42,10.251c9.167-14.25,37.5-11.667,47-0.083"/>
+	<path fill="none" stroke-width="2" stroke="#00FF00" d="M8.715,19.386c6.29-9.723,25.421-8.16,31.764-0.37"/>
+	<polygon fill="none" stroke-width="2" stroke="#00FF00" points="19.837,14.397 17.274,17.897 17.274,29.397 14.524,29.397 22.649,29.397 
+		22.649,17.835 	"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="22.649" y1="29.397" x2="25.087" y2="29.397"/>
+	<polygon fill="#00FF00" points="32.024,2.397 27.274,8.772 29.587,8.772 28.649,11.772 28.024,13.46 24.587,18.147 25.712,18.585 
+		23.399,25.397 24.149,25.647 26.962,19.335 28.149,19.71 28.649,13.897 30.149,8.96 31.399,10.085 	"/>
+</g>
+</svg>

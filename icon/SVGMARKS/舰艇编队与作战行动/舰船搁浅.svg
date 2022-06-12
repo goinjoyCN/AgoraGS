@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g id="Blue">
+	<path fill="none" stroke-width="2" stroke="#0000FF" d="M1.458,27.426c0,0,18.677-16.365,39.295,0"/>
+	<path fill="none" stroke-width="2" stroke="#0000FF" d="M40.755,26.81c0,0-18.678,16.365-39.296,0"/>
+	<rect x="13.201" y="24.283" fill="none" stroke-width="2" stroke="#0000FF" width="14.886" height="6.657"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="20.644" y1="24.283" x2="20.644" y2="30.94"/>
+	<line fill="none" stroke-width="2" stroke="#000000" x1="43" y1="27.426" x2="61.625" y2="27.426"/>
+</g>
+<g id="Red">
+	<path fill="none" stroke-width="2" stroke="#FF0000" d="M1.458,27.426c0,0,18.677-16.365,39.295,0"/>
+	<path fill="none" stroke-width="2" stroke="#FF0000" d="M40.755,26.81c0,0-18.678,16.365-39.296,0"/>
+	<rect x="13.201" y="24.283" fill="none" stroke-width="2" stroke="#FF0000" width="14.886" height="6.657"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="20.644" y1="24.283" x2="20.644" y2="30.94"/>
+	<line fill="none" stroke-width="2" stroke="#000000" x1="43" y1="27.426" x2="61.625" y2="27.426"/>
+</g>
+<g id="White">
+	<path fill="none" stroke-width="2" stroke="#00FF00" d="M1.458,27.426c0,0,18.677-16.365,39.295,0"/>
+	<path fill="none" stroke-width="2" stroke="#00FF00" d="M40.755,26.81c0,0-18.678,16.365-39.296,0"/>
+	<rect x="13.201" y="24.283" fill="none" stroke-width="2" stroke="#00FF00" width="14.886" height="6.657"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="20.644" y1="24.283" x2="20.644" y2="30.94"/>
+	<line fill="none" stroke-width="2" stroke="#000000" x1="43" y1="27.426" x2="61.625" y2="27.426"/>
+</g>
+</svg>

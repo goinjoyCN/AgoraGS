@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g id="Blue">
+	<rect x="20.292" y="25.987" fill="none" stroke="#0000FF" stroke-width="2" width="24.965" height="13.841"/>
+	<line fill="none" stroke="#0000FF" stroke-width="2" x1="25.623" y1="25.987" x2="25.623" y2="21.066"/>
+	<line fill="none" stroke="#0000FF" stroke-width="2" x1="40.233" y1="25.987" x2="40.233" y2="21.066"/>
+	<line fill="none" stroke="#0000FF" stroke-width="2" x1="25.623" y1="44.75" x2="25.623" y2="39.828"/>
+	<line fill="none" stroke="#0000FF" stroke-width="2" x1="40.233" y1="44.75" x2="40.233" y2="39.828"/>
+	<ellipse fill="none" stroke="#0000FF" stroke-width="2" cx="32.75" cy="32.834" rx="31.25" ry="17"/>
+</g>
+<g id="Red">
+	<rect x="20.292" y="25.987" fill="none" stroke="#FF0000" stroke-width="2" width="24.965" height="13.841"/>
+	<line fill="none" stroke="#FF0000" stroke-width="2" x1="25.623" y1="25.987" x2="25.623" y2="21.066"/>
+	<line fill="none" stroke="#FF0000" stroke-width="2" x1="40.233" y1="25.987" x2="40.233" y2="21.066"/>
+	<line fill="none" stroke="#FF0000" stroke-width="2" x1="25.623" y1="44.75" x2="25.623" y2="39.828"/>
+	<line fill="none" stroke="#FF0000" stroke-width="2" x1="40.233" y1="44.75" x2="40.233" y2="39.828"/>
+	<ellipse fill="none" stroke="#FF0000" stroke-width="2" cx="32.75" cy="32.834" rx="31.25" ry="17"/>
+</g>
+<g id="White">
+	<rect x="20.292" y="25.987" fill="none" stroke="#00FF00" stroke-width="2" width="24.965" height="13.841"/>
+	<line fill="none" stroke="#00FF00" stroke-width="2" x1="25.623" y1="25.987" x2="25.623" y2="21.066"/>
+	<line fill="none" stroke="#00FF00" stroke-width="2" x1="40.233" y1="25.987" x2="40.233" y2="21.066"/>
+	<line fill="none" stroke="#00FF00" stroke-width="2" x1="25.623" y1="44.75" x2="25.623" y2="39.828"/>
+	<line fill="none" stroke="#00FF00" stroke-width="2" x1="40.233" y1="44.75" x2="40.233" y2="39.828"/>
+	<ellipse fill="none" stroke="#00FF00" stroke-width="2" cx="32.75" cy="32.834" rx="31.25" ry="17"/>
+</g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g id="Blue">
+	<polygon fill="#0000FF" points="49.387,13.524 51.914,15.894 42.688,13.635 51.914,11.107 	"/>
+	<line fill="none" stroke="#0000FF" x1="18.75" y1="13.5" x2="62.666" y2="13.5"/>
+	<polygon fill="#0000FF" points="4.648,53.208 7.019,50.681 4.76,59.906 2.231,50.681 	"/>
+	<line fill="none" stroke="#0000FF" x1="4.625" y1="58.16" x2="4.625" y2="29"/>
+	<circle fill="none" stroke="#0000FF" cx="19.313" cy="28.188" r="14.688"/>
+</g>
+<g id="Red">
+	<polygon fill="#FF0000" points="49.387,13.524 51.914,15.894 42.688,13.635 51.914,11.107 	"/>
+	<line fill="none" stroke="#FF0000" x1="18.75" y1="13.5" x2="62.666" y2="13.5"/>
+	<polygon fill="#FF0000" points="4.648,53.208 7.019,50.681 4.76,59.906 2.231,50.681 	"/>
+	<line fill="none" stroke="#FF0000" x1="4.625" y1="58.16" x2="4.625" y2="29"/>
+	<circle fill="none" stroke="#FF0000" cx="19.313" cy="28.188" r="14.688"/>
+</g>
+<g id="White">
+	<polygon fill="#00FF00" points="49.387,13.524 51.914,15.894 42.688,13.635 51.914,11.107 	"/>
+	<line fill="none" stroke="#00FF00" x1="18.75" y1="13.5" x2="62.666" y2="13.5"/>
+	<polygon fill="#00FF00" points="4.648,53.208 7.019,50.681 4.76,59.906 2.231,50.681 	"/>
+	<line fill="none" stroke="#00FF00" x1="4.625" y1="58.16" x2="4.625" y2="29"/>
+	<circle fill="none" stroke="#00FF00" cx="19.313" cy="28.188" r="14.688"/>
+</g>
+</svg>

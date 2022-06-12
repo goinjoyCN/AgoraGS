@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g id="Blue">
+	<ellipse fill="none" stroke-width="2" stroke="#0000FF" cx="8.5" cy="32.094" rx="6.75" ry="6.781"/>
+	<polygon fill="#0000FF" points="11.563,34.123 8.5,28.998 5.688,34.123 	"/>
+	<path fill="none" stroke-width="2" stroke="#0000FF" d="M62.563,27c0,0-5.011,0.581-5.063,5c-0.055,4.688,4.313,5.313,5.063,5.5"/>
+	<path fill="none" stroke-width="2" stroke="#0000FF" d="M15.063,33.125c0,0,0.938-2.188,5.375-2.75c0,0,2.063-0.063,4,2.5c0,0,2.625,3.5,5.813,0.938
+		c0,0,2.125-2.5,4.813-3.188c0,0,3.25-0.938,5.875,2.188c0,0,3.063,3.688,5.75,0.688c0,0,3-3.375,5.625-3.125
+		c0,0,3.063,0.25,5.188,2.125"/>
+</g>
+<g id="Red">
+	<ellipse fill="none" stroke-width="2" stroke="#FF0000" cx="8.5" cy="32.094" rx="6.75" ry="6.781"/>
+	<polygon fill="#FF0000" points="11.563,34.123 8.5,28.998 5.688,34.123 	"/>
+	<path fill="none" stroke-width="2" stroke="#FF0000" d="M62.563,27c0,0-5.011,0.581-5.063,5c-0.055,4.688,4.313,5.313,5.063,5.5"/>
+	<path fill="none" stroke-width="2" stroke="#FF0000" d="M15.063,33.125c0,0,0.938-2.188,5.375-2.75c0,0,2.063-0.063,4,2.5c0,0,2.625,3.5,5.813,0.938
+		c0,0,2.125-2.5,4.813-3.188c0,0,3.25-0.938,5.875,2.188c0,0,3.063,3.688,5.75,0.688c0,0,3-3.375,5.625-3.125
+		c0,0,3.063,0.25,5.188,2.125"/>
+</g>
+<g id="White">
+	<ellipse fill="none" stroke-width="2" stroke="#00FF00" cx="8.5" cy="32.094" rx="6.75" ry="6.781"/>
+	<polygon fill="#00FF00" points="11.563,34.123 8.5,28.998 5.688,34.123 	"/>
+	<path fill="none" stroke-width="2" stroke="#00FF00" d="M62.563,27c0,0-5.011,0.581-5.063,5c-0.055,4.688,4.313,5.313,5.063,5.5"/>
+	<path fill="none" stroke-width="2" stroke="#00FF00" d="M15.063,33.125c0,0,0.938-2.188,5.375-2.75c0,0,2.063-0.063,4,2.5c0,0,2.625,3.5,5.813,0.938
+		c0,0,2.125-2.5,4.813-3.188c0,0,3.25-0.938,5.875,2.188c0,0,3.063,3.688,5.75,0.688c0,0,3-3.375,5.625-3.125
+		c0,0,3.063,0.25,5.188,2.125"/>
+</g>
+</svg>

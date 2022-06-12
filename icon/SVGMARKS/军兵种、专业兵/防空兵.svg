@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g id="Blue">
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="32.154" y1="8.401" x2="32.154" y2="60.728"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="25.075" y1="18.712" x2="25.075" y2="43.183"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="38.924" y1="18.712" x2="38.924" y2="43.183"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="25.998" y1="61.343" x2="38.924" y2="61.343"/>
+	
+		<rect x="31.013" y="53.268" transform="matrix(0.7259 0.6878 -0.6878 0.7259 46.7635 -9.4664)" fill="#0000FF" width="8.49" height="1.332"/>
+	
+		<rect x="24.675" y="53.264" transform="matrix(-0.7259 0.6878 -0.6878 -0.7259 87.01 73.1851)" fill="#0000FF" width="8.491" height="1.336"/>
+	
+		<rect x="30.756" y="53.16" transform="matrix(0.7261 0.6876 -0.6876 0.7261 46.3837 -9.6691)" fill="#000002" width="9.143" height="0.444"/>
+	<polygon fill="#000002" points="32.328,50.22 25.686,56.692 25.38,56.368 32.005,49.915 	"/>
+	<polyline fill="#000002" points="35.165,8.401 28.7,8.401 32.154,0.991 	"/>
+</g>
+<g id="Red">
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="32.154" y1="8.401" x2="32.154" y2="60.728"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="25.075" y1="18.712" x2="25.075" y2="43.183"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="38.924" y1="18.712" x2="38.924" y2="43.183"/>
+	<line fill="none" stroke-width="2" stroke="#FF0000" x1="25.998" y1="61.343" x2="38.924" y2="61.343"/>
+	
+		<rect x="31.013" y="53.268" transform="matrix(0.7259 0.6878 -0.6878 0.7259 46.7635 -9.4664)" fill="#FF0000" width="8.49" height="1.332"/>
+	
+		<rect x="24.675" y="53.264" transform="matrix(-0.7259 0.6878 -0.6878 -0.7259 87.01 73.1851)" fill="#FF0000" width="8.491" height="1.336"/>
+	
+		<rect x="30.756" y="53.16" transform="matrix(0.7261 0.6876 -0.6876 0.7261 46.3837 -9.6691)" fill="#000002" width="9.143" height="0.444"/>
+	<polygon fill="#000002" points="32.328,50.22 25.686,56.692 25.38,56.368 32.005,49.915 	"/>
+	<polyline fill="#000002" points="35.165,8.401 28.7,8.401 32.154,0.991 	"/>
+</g>
+<g id="White">
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="32.154" y1="8.401" x2="32.154" y2="60.728"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="25.075" y1="18.712" x2="25.075" y2="43.183"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="38.924" y1="18.712" x2="38.924" y2="43.183"/>
+	<line fill="none" stroke-width="2" stroke="#00FF00" x1="25.998" y1="61.343" x2="38.924" y2="61.343"/>
+	
+		<rect x="31.013" y="53.268" transform="matrix(0.7259 0.6878 -0.6878 0.7259 46.7635 -9.4664)" fill="#00FF00" width="8.49" height="1.332"/>
+	
+		<rect x="24.675" y="53.264" transform="matrix(-0.7259 0.6878 -0.6878 -0.7259 87.01 73.1851)" fill="#00FF00" width="8.491" height="1.336"/>
+	
+		<rect x="30.756" y="53.16" transform="matrix(0.7261 0.6876 -0.6876 0.7261 46.3837 -9.6691)" fill="#000002" width="9.143" height="0.444"/>
+	<polygon fill="#000002" points="32.328,50.22 25.686,56.692 25.38,56.368 32.005,49.915 	"/>
+	<polyline fill="#000002" points="35.165,8.401 28.7,8.401 32.154,0.991 	"/>
+</g>
+</svg>

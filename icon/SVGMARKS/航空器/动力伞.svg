@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g id="Blue">
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="20.458" y1="25.083" x2="47.833" y2="25.083"/>
+	<polygon fill="#0000FF" points="24.058,26.395 14.734,25.245 23.833,23.521 20.53,25.131 	"/>
+	<path fill="none" stroke-width="2" stroke="#0000FF" d="M6.972,24.366C20.977-8.055,46.566,1.15,53.858,24.209"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="6.935" y1="24.086" x2="30" y2="62"/>
+	<line fill="none" stroke-width="2" stroke="#0000FF" x1="30.027" y1="62" x2="53.898" y2="23.774"/>
+</g>
+<g id="Red">
+	<line display="inline" fill="none" stroke-width="2" stroke="#FF0000" x1="20.458" y1="25.083" x2="47.833" y2="25.083"/>
+	<polygon display="inline" fill="#FF0000" points="24.058,26.395 14.734,25.245 23.833,23.521 20.53,25.131 	"/>
+	<path display="inline" fill="none" stroke-width="2" stroke="#FF0000" d="M6.972,24.366C20.977-8.055,46.566,1.15,53.858,24.209"/>
+	<line display="inline" fill="none" stroke-width="2" stroke="#FF0000" x1="6.935" y1="24.086" x2="30" y2="62"/>
+	<line display="inline" fill="none" stroke-width="2" stroke="#FF0000" x1="30.027" y1="62" x2="53.898" y2="23.774"/>
+</g>
+<g id="White">
+	<line display="inline" fill="none" stroke-width="2" stroke="#00FF00" x1="20.458" y1="25.083" x2="47.833" y2="25.083"/>
+	<polygon display="inline" fill="#00FF00" points="24.058,26.395 14.734,25.245 23.833,23.521 20.53,25.131 	"/>
+	<path display="inline" fill="none" stroke-width="2" stroke="#00FF00" d="M6.972,24.366C20.977-8.055,46.566,1.15,53.858,24.209"/>
+	<line display="inline" fill="none" stroke-width="2" stroke="#00FF00" x1="6.935" y1="24.086" x2="30" y2="62"/>
+	<line display="inline" fill="none" stroke-width="2" stroke="#00FF00" x1="30.027" y1="62" x2="53.898" y2="23.774"/>
+</g>
+</svg>

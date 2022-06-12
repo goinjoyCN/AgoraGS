@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g id="Blue">
+	<rect x="2.625" y="15.5" fill="none" stroke="#0000FF" stroke-width="2" width="37.375" height="33"/>
+	<text transform="matrix(1 0 0 1 11.5005 39.875)" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="20">水</text>
+	<line fill="none" stroke="#0000FF" stroke-width="2" x1="40" y1="32" x2="59.25" y2="32"/>
+	<line fill="none" stroke="#0000FF" stroke-width="2" x1="59.25" y1="32" x2="59.25" y2="41.75"/>
+</g>
+<g id="Red">
+	<rect x="2.625" y="15.5" fill="none" stroke="#FF0000" stroke-width="2" width="37.375" height="33"/>
+	<text transform="matrix(1 0 0 1 11.5005 39.875)" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="20">水</text>
+	<line fill="none" stroke="#FF0000" stroke-width="2" x1="40" y1="32" x2="59.25" y2="32"/>
+	<line fill="none" stroke="#FF0000" stroke-width="2" x1="59.25" y1="32" x2="59.25" y2="41.75"/>
+</g>
+<g id="White">
+	<rect x="2.625" y="15.5" fill="none" stroke="#00FF00" stroke-width="2" width="37.375" height="33"/>
+	<text transform="matrix(1 0 0 1 11.5005 39.875)" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="20">水</text>
+	<line fill="none" stroke="#00FF00" stroke-width="2" x1="40" y1="32" x2="59.25" y2="32"/>
+	<line fill="none" stroke="#00FF00" stroke-width="2" x1="59.25" y1="32" x2="59.25" y2="41.75"/>
+</g>
+</svg>
